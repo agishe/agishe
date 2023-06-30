@@ -2,7 +2,7 @@
 
 ## I'm Maria Kadyrova.
 
-### Right now I'm looking for a job as a Frontend-developer!
+### I'm a Frontend-developer and I'm looking forward to create a web-site for YOU!
 
 <br />
 
