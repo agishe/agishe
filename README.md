@@ -35,8 +35,13 @@
 [<img align="space-between" height="30" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />]()
 [<img align="space-between" height="30" alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />]()
 
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agishe&layout=compact&theme=vision-friendly-dark&hide=Hack)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=agishe&color=red&style=flat)
 
 <!--
 **agishe/agishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
