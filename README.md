@@ -2,7 +2,14 @@
 
 ## I'm Maria Kadyrova.
 
-### I'm a Frontend-developer and I'm looking forward to create a web-site for YOU!
+### I'm a Frontend-developer from Moscow.
+### I'm looking forward to create a web-site for YOU!
+
+<br />
+
+## 📫 How to reach me:
+
+[<img align="space-between" height="30" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/agish_m)
 
 <br />
 
@@ -14,7 +21,6 @@
 [<img align="space-between" height="30" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />]()
 [<img align="space-between" height="30" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />]()
 
-<br />
 <br />
 
 ## 💻 Tools:
@@ -29,13 +35,6 @@
 [<img align="space-between" height="30" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />]()
 [<img align="space-between" height="30" alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />]()
 
-<br />
-<br />
-<br />
-
-## 📫 How to reach me:
-
-[<img align="space-between" height="30" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/agish_m)
 
 
 
