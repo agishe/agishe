@@ -35,7 +35,7 @@
 
 ## 📫 How to reach me:
 
-[<img align="left" height="30" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/agish_m)
+[<img align="space-between" height="30" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/agish_m)
 
 
 
