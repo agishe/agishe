@@ -7,7 +7,7 @@
 
 <br />
 
-## 📫 How to reach me:
+## 📲 How to reach me:
 
 [<img align="space-between" height="30" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/agish_m)
 
